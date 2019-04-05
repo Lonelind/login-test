@@ -1,8 +1,8 @@
 import React from 'react';
 
-import LoginContainer from 'containers/Login';
+import PasswordResetContainer from 'containers/PasswordReset';
 
-class Home extends React.Component {
+class PasswordReset extends React.Component {
     static async getInitialProps() {
         const props = {
             namespacesRequired: ['login'],
@@ -13,9 +13,9 @@ class Home extends React.Component {
 
     render() {
         return (
-            <LoginContainer />
+            <PasswordResetContainer />
         );
     }
 }
 
-export default Home;
+export default PasswordReset;

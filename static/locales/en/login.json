@@ -1,0 +1,11 @@
+{
+    "title": "Login",
+    "email": "Email",
+    "password": "Password",
+    "remember": "Remember me",
+    "forgotPassword": "Forgot password?",
+    "logIn": "Sign in",
+    "resetTitle": "Password recovery",
+    "remembered": "I remembered my password",
+    "resetPassword": "Reset password"
+}

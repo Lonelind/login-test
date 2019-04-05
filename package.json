@@ -4,26 +4,39 @@
   "description": "Login page test",
   "main": "index.js",
   "repository": "git@github.com:Lonelind/login-test.git",
+  "license": "MIT",
   "scripts": {
     "dev": "next",
     "build": "next build",
     "start": "next start"
   },
   "dependencies": {
+    "@material-ui/core": "^3.9.3",
+    "@material-ui/icons": "^3.0.2",
+    "@zeit/next-css": "^1.0.1",
     "babel-eslint": "^10.0.1",
     "eslint": "^5.16.0",
+    "eslint-config-airbnb": "^17.1.0",
+    "eslint-import-resolver-webpack": "^0.11.0",
+    "eslint-plugin-import": "^2.16.0",
+    "eslint-plugin-jsx-a11y": "^6.2.1",
+    "eslint-plugin-react": "^7.12.4",
     "koa": "^2.7.0",
     "koa-bodyparser": "^4.2.1",
     "koa-i18next": "^1.1.1",
     "koa-session": "^5.10.1",
     "next": "^8.0.4",
     "next-i18next": "^0.36.6",
+    "next-redux-wrapper": "^3.0.0-alpha.2",
+    "ol": "^5.3.1",
+    "prop-types": "^15.7.2",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-redux": "^6.0.1",
     "redux": "^4.0.1",
     "redux-saga": "^1.0.2",
-    "styled-components": "^4.2.0"
+    "styled-components": "^4.2.0",
+    "webpack": "^4.29.6"
   },
   "devDependencies": {
     "babel-plugin-styled-components": "^1.10.0"

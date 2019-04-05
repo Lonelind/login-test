@@ -1,0 +1,11 @@
+{
+    "title": "Anmeldung",
+    "email": "Email",
+    "password": "Passwort",
+    "remember": "Erinnere mich",
+    "forgotPassword": "Passwort vergessen?",
+    "logIn": "Einloggen",
+    "resetTitle": "Passwort-Wiederherstellung",
+    "remembered": "Ich erinnerte mich an mein Passwort",
+    "resetPassword": "Passwort zurücksetzen"
+}
