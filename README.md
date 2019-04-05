@@ -4,6 +4,8 @@ A simple Next.js + Koa2 application with map integration.
 
 ## After cloning
 
+Make sure, you have `node@10` and `yarn` installed. If don't, you can install it using https://github.com/creationix/nvm and https://yarnpkg.com/en/docs/install respectively.
+
 ### 1. Install all dependencies
 
 Just run
